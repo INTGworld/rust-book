@@ -1,3 +1,9 @@
+<!-- src/your-chapter.md -->
+
+First, before we begin, a _quiz_:
+
+{{#quiz ../quizzes/rust-variables.toml}}
+
 ## Installation
 
 The first step is to install Rust. We’ll download Rust through `rustup`, a

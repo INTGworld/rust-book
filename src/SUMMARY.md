@@ -151,3 +151,10 @@
     - [E - Editions](appendix-05-editions.md)
     - [F - Translations of the Book](appendix-06-translation.md)
     - [G - How Rust is Made and “Nightly Rust”](appendix-07-nightly-rust.md)
+
+```aquascope,interpreter
+#fn main() {
+let mut s = String::from("hello ");`[]`
+s.push_str("world");`[]`
+#}
+```

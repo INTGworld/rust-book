@@ -44,3 +44,9 @@ output-mode = "default"
 
 [rust]
 edition = "2021"
+
+# book.toml
+[preprocessor.aquascope]
+
+# book.toml
+[preprocessor.quiz]
